@@ -1,0 +1,2 @@
+SHELL=/bin/bash
+*/1 * * * * [ "$(date +\%m)" -ge 10 -o "$(date +\%m)" -le 6 ] && /bin/bash ~/exam_CHAHET/exam_bash/exam.sh

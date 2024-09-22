@@ -1,0 +1,560 @@
+1. Affichez le nombre d'attributs par document ainsi que l'attribut name
+{
+  "num_attributes": 17,
+  "name": "Luke Skywalker"
+}
+{
+  "num_attributes": 17,
+  "name": "C-3PO"
+}
+{
+  "num_attributes": 17,
+  "name": "R2-D2"
+}
+{
+  "num_attributes": 17,
+  "name": "Darth Vader"
+}
+{
+  "num_attributes": 17,
+  "name": "Leia Organa"
+}
+{
+  "num_attributes": 17,
+  "name": "Owen Lars"
+}
+{
+  "num_attributes": 17,
+  "name": "Beru Whitesun lars"
+}
+{
+  "num_attributes": 17,
+  "name": "R5-D4"
+}
+{
+  "num_attributes": 17,
+  "name": "Biggs Darklighter"
+}
+{
+  "num_attributes": 17,
+  "name": "Obi-Wan Kenobi"
+}
+{
+  "num_attributes": 17,
+  "name": "Anakin Skywalker"
+}
+{
+  "num_attributes": 17,
+  "name": "Wilhuff Tarkin"
+}
+{
+  "num_attributes": 17,
+  "name": "Chewbacca"
+}
+{
+  "num_attributes": 17,
+  "name": "Han Solo"
+}
+{
+  "num_attributes": 17,
+  "name": "Greedo"
+}
+{
+  "num_attributes": 17,
+  "name": "Jabba Desilijic Tiure"
+}
+{
+  "num_attributes": 17,
+  "name": "Wedge Antilles"
+}
+{
+  "num_attributes": 17,
+  "name": "Jek Tono Porkins"
+}
+{
+  "num_attributes": 17,
+  "name": "Yoda"
+}
+{
+  "num_attributes": 17,
+  "name": "Palpatine"
+}
+{
+  "num_attributes": 17,
+  "name": "Boba Fett"
+}
+{
+  "num_attributes": 17,
+  "name": "IG-88"
+}
+{
+  "num_attributes": 17,
+  "name": "Bossk"
+}
+{
+  "num_attributes": 17,
+  "name": "Lando Calrissian"
+}
+{
+  "num_attributes": 17,
+  "name": "Lobot"
+}
+{
+  "num_attributes": 17,
+  "name": "Ackbar"
+}
+{
+  "num_attributes": 17,
+  "name": "Mon Mothma"
+}
+{
+  "num_attributes": 17,
+  "name": "Arvel Crynyd"
+}
+{
+  "num_attributes": 17,
+  "name": "Nien Nunb"
+}
+{
+  "num_attributes": 17,
+  "name": "Qui-Gon Jinn"
+}
+{
+  "num_attributes": 17,
+  "name": "Nute Gunray"
+}
+{
+  "num_attributes": 17,
+  "name": "Finis Valorum"
+}
+{
+  "num_attributes": 17,
+  "name": "Padmé Amidala"
+}
+{
+  "num_attributes": 17,
+  "name": "Jar Jar Binks"
+}
+{
+  "num_attributes": 17,
+  "name": "Roos Tarpals"
+}
+{
+  "num_attributes": 17,
+  "name": "Rugor Nass"
+}
+{
+  "num_attributes": 17,
+  "name": "Ric Olié"
+}
+{
+  "num_attributes": 17,
+  "name": "Watto"
+}
+{
+  "num_attributes": 17,
+  "name": "Sebulba"
+}
+{
+  "num_attributes": 17,
+  "name": "Quarsh Panaka"
+}
+{
+  "num_attributes": 17,
+  "name": "Shmi Skywalker"
+}
+{
+  "num_attributes": 17,
+  "name": "Darth Maul"
+}
+{
+  "num_attributes": 17,
+  "name": "Bib Fortuna"
+}
+{
+  "num_attributes": 17,
+  "name": "Dud Bolt"
+}
+{
+  "num_attributes": 17,
+  "name": "Gasgano"
+}
+{
+  "num_attributes": 17,
+  "name": "Ben Quadinaros"
+}
+{
+  "num_attributes": 17,
+  "name": "Mace Windu"
+}
+{
+  "num_attributes": 17,
+  "name": "Ki-Adi-Mundi"
+}
+{
+  "num_attributes": 17,
+  "name": "Kit Fisto"
+}
+{
+  "num_attributes": 17,
+  "name": "Eeth Koth"
+}
+{
+  "num_attributes": 17,
+  "name": "Adi Gallia"
+}
+{
+  "num_attributes": 17,
+  "name": "Saesee Tiin"
+}
+{
+  "num_attributes": 17,
+  "name": "Yarael Poof"
+}
+{
+  "num_attributes": 17,
+  "name": "Plo Koon"
+}
+{
+  "num_attributes": 17,
+  "name": "Mas Amedda"
+}
+{
+  "num_attributes": 17,
+  "name": "Gregar Typho"
+}
+{
+  "num_attributes": 17,
+  "name": "Cordé"
+}
+{
+  "num_attributes": 17,
+  "name": "Cliegg Lars"
+}
+{
+  "num_attributes": 17,
+  "name": "Poggle the Lesser"
+}
+{
+  "num_attributes": 17,
+  "name": "Luminara Unduli"
+}
+{
+  "num_attributes": 17,
+  "name": "Barriss Offee"
+}
+{
+  "num_attributes": 17,
+  "name": "Dormé"
+}
+{
+  "num_attributes": 17,
+  "name": "Dooku"
+}
+{
+  "num_attributes": 17,
+  "name": "Bail Prestor Organa"
+}
+{
+  "num_attributes": 17,
+  "name": "Jango Fett"
+}
+{
+  "num_attributes": 17,
+  "name": "Zam Wesell"
+}
+{
+  "num_attributes": 17,
+  "name": "Dexter Jettster"
+}
+{
+  "num_attributes": 17,
+  "name": "Lama Su"
+}
+{
+  "num_attributes": 17,
+  "name": "Taun We"
+}
+{
+  "num_attributes": 17,
+  "name": "Jocasta Nu"
+}
+{
+  "num_attributes": 17,
+  "name": "R4-P17"
+}
+{
+  "num_attributes": 17,
+  "name": "Wat Tambor"
+}
+{
+  "num_attributes": 17,
+  "name": "San Hill"
+}
+{
+  "num_attributes": 17,
+  "name": "Shaak Ti"
+}
+{
+  "num_attributes": 17,
+  "name": "Grievous"
+}
+{
+  "num_attributes": 17,
+  "name": "Tarfful"
+}
+{
+  "num_attributes": 17,
+  "name": "Raymus Antilles"
+}
+{
+  "num_attributes": 17,
+  "name": "Sly Moore"
+}
+{
+  "num_attributes": 17,
+  "name": "Tion Medon"
+}
+{
+  "num_attributes": 17,
+  "name": "Finn"
+}
+{
+  "num_attributes": 17,
+  "name": "Rey"
+}
+{
+  "num_attributes": 17,
+  "name": "Poe Dameron"
+}
+{
+  "num_attributes": 17,
+  "name": "BB8"
+}
+Commande : cat people.json | jq '.[] | {num_attributes: length, name}'
+Réponse : il y a 17 attributs par document
+
+---------------------------------
+
+1.  N'affichez que les 12 premières lignes avec la commande head (notebook #2).
+{
+  "num_attributes": 17,
+  "name": "Luke Skywalker"
+}
+{
+  "num_attributes": 17,
+  "name": "C-3PO"
+}
+{
+  "num_attributes": 17,
+  "name": "R2-D2"
+}
+{
+  "num_attributes": 17,
+  "name": "Darth Vader"
+}
+{
+  "num_attributes": 17,
+  "name": "Leia Organa"
+}
+{
+  "num_attributes": 17,
+  "name": "Owen Lars"
+}
+{
+  "num_attributes": 17,
+  "name": "Beru Whitesun lars"
+}
+{
+  "num_attributes": 17,
+  "name": "R5-D4"
+}
+{
+  "num_attributes": 17,
+  "name": "Biggs Darklighter"
+}
+{
+  "num_attributes": 17,
+  "name": "Obi-Wan Kenobi"
+}
+{
+  "num_attributes": 17,
+  "name": "Anakin Skywalker"
+}
+{
+  "num_attributes": 17,
+  "name": "Wilhuff Tarkin"
+}
+Commande : cat people.json | jq '.[:12] | .[] | {num_attributes: length, name}'
+Réponse : 
+
+---------------------------------
+
+2. Combien y a-t-il de valeur unknown pour l'attribut birth_year ?
+42
+Commande : cat people.json | jq '[.[] | select(.birth_year == unknown)] | length' | tail -n 1
+Réponse : il y a 42 resultats avec une date = unknown
+
+---------------------------------
+
+3. Affichez la date de création de chaque personnage et son nom. La date de création doit être de cette forme : l'année, le mois et le jour. N'affichez que les 10 premières lignes. (Pas de Réponse attendue)
+{"name":"Luke Skywalker","dateCreation":"2014-12-09"}
+{"name":"C-3PO","dateCreation":"2014-12-10"}
+{"name":"R2-D2","dateCreation":"2014-12-10"}
+{"name":"Darth Vader","dateCreation":"2014-12-10"}
+{"name":"Leia Organa","dateCreation":"2014-12-10"}
+{"name":"Owen Lars","dateCreation":"2014-12-10"}
+{"name":"Beru Whitesun lars","dateCreation":"2014-12-10"}
+{"name":"R5-D4","dateCreation":"2014-12-10"}
+{"name":"Biggs Darklighter","dateCreation":"2014-12-10"}
+{"name":"Obi-Wan Kenobi","dateCreation":"2014-12-10"}
+Commande : cat people.json | jq -c '.[] | {name: .name, dateCreation: (.created | sub(\.[0-9]+Z; Z) | strptime(%Y-%m-%dT%H:%M:%SZ) | strftime(%Y-%m-%d))}' | head -n 10
+Réponse : 
+
+---------------------------------
+
+4. Certains personnages sont nés en même temps. Retrouvez toutes les pairs d'ids (2 ids) des personnages nés en même temps.
+[
+  {
+    "birth_year": "19BBY",
+    "ids": [
+      1,
+      5
+    ]
+  },
+  {
+    "birth_year": "41.9BBY",
+    "ids": [
+      4,
+      11
+    ]
+  },
+  {
+    "birth_year": "52BBY",
+    "ids": [
+      6,
+      36
+    ]
+  },
+  {
+    "birth_year": "72BBY",
+    "ids": [
+      43,
+      51
+    ]
+  },
+  {
+    "birth_year": "82BBY",
+    "ids": [
+      21,
+      62
+    ]
+  },
+  {
+    "birth_year": "92BBY",
+    "ids": [
+      32,
+      52
+    ]
+  },
+  {
+    "birth_year": "unknown",
+    "ids": [
+      8,
+      19,
+      29,
+      31,
+      33,
+      37,
+      38,
+      39,
+      40,
+      41,
+      45,
+      48,
+      49,
+      50,
+      53,
+      54,
+      55,
+      56,
+      57,
+      59,
+      60,
+      61,
+      63,
+      66,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ]
+  }
+]
+Commande : cat people.json | jq 'group_by(.birth_year) | map(select(length > 1) | { birth_year: .[0].birth_year, ids: map(.id) })'
+Réponse : cette commande nous retourne la liste des ID qui partagent le même birth_year
+
+---------------------------------
+
+5. Renvoyez le numéro du premier film (de la liste) dans lequel chaque personnage a été vu suivi du nom du personnage. N'affichez que les 10 premières lignes.
+[
+  {
+    "name": "Luke Skywalker",
+    "first_film": "6"
+  },
+  {
+    "name": "C-3PO",
+    "first_film": "5"
+  },
+  {
+    "name": "R2-D2",
+    "first_film": "5"
+  },
+  {
+    "name": "Darth Vader",
+    "first_film": "6"
+  },
+  {
+    "name": "Leia Organa",
+    "first_film": "6"
+  },
+  {
+    "name": "Owen Lars",
+    "first_film": "5"
+  },
+  {
+    "name": "Beru Whitesun lars",
+    "first_film": "5"
+  },
+  {
+    "name": "R5-D4",
+    "first_film": "1"
+  },
+  {
+    "name": "Biggs Darklighter",
+    "first_film": "1"
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "first_film": "5"
+  }
+]
+Commande : cat people.json | jq 'map({name: .name, first_film: (.films[0] | match("\/([0-9]+)\/").captures[0].string)}) | .[:10]'
+Réponse : 
+
+---------------------------------
+
