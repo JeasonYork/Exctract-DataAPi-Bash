@@ -42,5 +42,5 @@ crontab cron.txt
 crontab ~/exam_CHAHET/exam_bash/cron.txt
 ```
 ## 2- Extract data from people.json file using JQ
-Extract people information from people.json file.
+Extract people information from people.json file using the file script exam_jq.sh .
 
