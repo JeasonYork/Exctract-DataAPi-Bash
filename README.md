@@ -33,6 +33,7 @@ cd exam_bash
 nano cron.text
 ```
 Create a job using the command crontab
+
 */1 * * * * [ "$(date +\%m)" -ge 10 -o "$(date +\%m)" -le 6 ] && /bin/bash ~/exam_CHAHET/exam_bash/exam.sh
 
 Launch the job
