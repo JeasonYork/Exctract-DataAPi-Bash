@@ -32,7 +32,8 @@ Create a cron.text file
 cd exam_bash  
 nano cron.text
 ```
-Create a job using the command crontab
+Create a job using the command crontab 
+This task will be performed every minute during the months of October to June.
 
 */1 * * * * [ "$(date +\%m)" -ge 10 -o "$(date +\%m)" -le 6 ] && /bin/bash ~/exam_CHAHET/exam_bash/exam.sh
 
