@@ -7,7 +7,7 @@ wget --no-cache https://dst-de.s3.eu-west-3.amazonaws.com/bash_fr/api.tar
 Unzip the archive using the following command:
 ```bash
 tar -xvf api.tar
-
+```
 The extracted archive reveals the api script.
 Run the api script after giving it execution permissions:
 ```bash
