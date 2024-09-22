@@ -13,25 +13,25 @@ Run the api script after giving it execution permissions:
 ```bash
 chmod +x api  
 ./api &
-
+```
 Create a directory
 ```bash
 mkdir exam_bash
-
+```
 Create a file in the directory:
 ```bash
 cd exam_bash  
 nano exam.sh
-
+```
 Give the permissions -rwx---r-x:
 ```bash
 chmod 705 exam.sh
-
+```
 Create a cron.text file
 ```bash
 cd exam_bash  
 nano cron.text
-
+```
 Create a job using the command crontab
 */1 * * * * [ "$(date +\%m)" -ge 10 -o "$(date +\%m)" -le 6 ] && /bin/bash ~/exam_CHAHET/exam_bash/exam.sh
 
@@ -39,7 +39,7 @@ Launch the job
 ```bash
 crontab cron.txt
 crontab ~/exam_CHAHET/exam_bash/cron.txt
-
+```
 ## 2- Extract data from people.json file using JQ
 Extract people information from people.json file.
 
